@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of litalino/flarum-blog-article-series.** Not for installation: use [Packagist](https://packagist.org/packages/litalino/flarum-blog-article-series) or the [upstream repository](https://github.com/Litalino/flarum-blog-article-series).
 
-**0** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/litalino-flarum-blog-article-series/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/litalino-flarum-blog-article-series/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-12-12 | `^1.0.0` | [Browse](https://github.com/flarchive/litalino-flarum-blog-article-series/tree/archive/v1.0.0) |
+| `1.2.0` | 2023-12-12 | `^1.0.0` | [Browse](https://github.com/flarchive/litalino-flarum-blog-article-series/tree/archive/v1.2.0) |
 
 Catalog entry: [packages/litalino-flarum-blog-article-series.json](https://github.com/flarchive/archive-index/blob/main/packages/litalino-flarum-blog-article-series.json)
 
